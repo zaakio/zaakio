@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Mada:wght@200;300;400;500;600;700;800;900&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+body{
+    background-color: rgb(21, 21, 21);
+}
+.Logo{
+    height: 90px;
+    width: 100px;
+    background-color: yellow;
+    color: black;
+    border-radius: 0px 0px 39px 39px;
+}
+.ZAKI{
+    text-decoration: none;
+    font-size: 39px;
+    color: black;
+    position: absolute;
+   top: 30px;
+   font-family: 'Belanosima', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+}
+.a-panner{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+    
+}
+.panner{
+background-color: yellow;
+height: 40px;
+width: 450px;
+border-radius: 20px;
+position: absolute;
+}
+.links{
+display: flex;
+align-items: center;
+justify-items: center;
+justify-content: center;
+}
+.link{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    color: black;
+    padding-left: 20px;
+    justify-content: space-between;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    transition: 0.7s;
+}
+#Games{
+    padding-left: 0;
+}
+.link:hover{
+    color: red;
+}
+
+
+
+.books{
+    margin-top: 250px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    display: grid;
+}
+.book{
+    width: 400px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 50px;
+    margin: 10px;
+    text-align: center;
+    display: block;
+}
+
+.book-name{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Mada', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    text-decoration: none;
+    font-size:40px;
+    color: black;
+    text-align: center;
+
+}
+.ZAKI:hover{
+    color: orange;
+}
+
+.book-name:hover{
+    color: green;
+}

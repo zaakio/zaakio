@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&family=Mada:wght@200;300;400;500;600;700;800;900&family=Readex+Pro:wght@200;300;400;500;600;700&display=swap');
+body{
+    background-color: rgb(21, 21, 21);
+}
+.Logo{
+    height: 90px;
+    width: 100px;
+    background-color: yellow;
+    color: black;
+    border-radius: 0px 0px 39px 39px;
+}
+.ZAKI{
+    text-decoration: none;
+    font-size: 39px;
+    color: black;
+    position: absolute;
+   top: 30px;
+   font-family: 'Belanosima', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+}
+.ZAKI:hover{
+    color: orange;
+}
+.text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   margin-top:300px ; 
+   
+}
+.texto{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: yellow;
+}
